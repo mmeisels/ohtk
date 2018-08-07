@@ -22,7 +22,7 @@ gem 'omniauth-twitter'
 gem 'omniauth-google'
 gem 'stripe', :git => 'https://github.com/stripe/stripe-ruby'
 # Use CoffeeScript for .js.coffee assets and views
-gem 'coffee-rails', '~> 4.0.0'
+gem 'coffee-rails', '~> 4.2.0'
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
